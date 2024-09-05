@@ -20,7 +20,7 @@ This is a basic system control program featuring safety and status indicators. I
 You can buy an mbed-enabled board, or you can use the [mbed simulator](https://os.mbed.com/blog/entry/introducing-mbed-simulator/).
 If you prefer using a board, you must use [mbed Studio](https://os.mbed.com/studio/) or [Keil Studio](https://studio.keil.arm.com/).
 
-![mbed simulator](mbed_simulator.png)
+![mbed simulator](components.PNG)
 
 ***Resources***
 - [The Definitive Guide to the ARM Cortex-M3](https://www.amazon.com/Definitive-Guide-Cortex-M3-Embedded-Technology/dp/0750685344)
